@@ -16,7 +16,7 @@ I am a **Mathematics and Computing** student at **IIT Roorkee**, using math, log
 
 ---
 
-### 💼 Experience & Leadership
+### 💼 Experience
 
 **Core Member** | *Vision and Language Group*
 *Feb 2026 – Present*
@@ -24,7 +24,7 @@ I am a **Mathematics and Computing** student at **IIT Roorkee**, using math, log
 
 **Editor** | *Geek Gazette*
 *Nov 2025 – Present*
-> Shaping the narrative for the official technical publication, editing tech articles, and staying on the bleeding edge of industry trends.
+> Shaping the narrative for the official technical publication, writing and editing tech articles, and staying on the bleeding edge of industry trends.
 
 
 ---
