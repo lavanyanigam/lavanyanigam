@@ -5,7 +5,6 @@ I am a **Mathematics and Computing** student at **IIT Roorkee**, using math, log
 ### 🚀 A Little About Me
 - I’m currently building my expertise in **Computer Vision & AI** as a Core Member of the Vision and Language Group.
 - I’m constantly learning and implementing new architectures.
-- Fun Fact: I speak a bit of German! (*Goethe-Zertifikat certified*) 
 
 ---
 
