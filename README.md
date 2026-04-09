@@ -31,7 +31,7 @@ I am a **Mathematics and Computing** student at **IIT Roorkee**, using math, log
 ### 🎓 Education
 
 **Indian Institute of Technology (IIT), Roorkee**
-*Bachelor of Science, Mathematics and Computing* *Jul 2025 – Present*
+- *Bachelor of Science, Mathematics and Computing* *Jul 2025 – Present*
 
 **Delhi Public School - R. K. Puram**
 - *All India Senior School Certificate Examination (Class XII)*
