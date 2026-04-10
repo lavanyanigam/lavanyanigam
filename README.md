@@ -34,9 +34,8 @@ I am a **Mathematics and Computing** student at **IIT Roorkee**, using math, log
 - *Bachelor of Science, Mathematics and Computing* *Jul 2025 – Present*
 
 **Delhi Public School - R. K. Puram**
-- *All India Senior School Certificate Examination (Class XII)*
-- *Graduated: 2025 | Grade: 96.2% | Ranked 12th in School*
-> Core Subjects: Physics, Chemistry, Mathematics & Computer Science
+- *Graduated: 2025*
+> Core Subjects: Physics, Chemistry, Mathematics & Computer Science  
 
 
 ---
